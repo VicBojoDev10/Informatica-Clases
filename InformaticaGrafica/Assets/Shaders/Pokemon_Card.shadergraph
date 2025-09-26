@@ -2233,7 +2233,7 @@
     "m_ObjectId": "23e6179144dc446c957b0f933867054f",
     "m_Title": "Cambio de Color basado en View Direction",
     "m_Position": {
-        "x": -870.9998779296875,
+        "x": -871.0,
         "y": -202.0
     }
 }
@@ -2741,7 +2741,7 @@
     "m_ObjectId": "316e01deb97e4b849672d803e73432fc",
     "m_Title": "Patrón de lámina",
     "m_Position": {
-        "x": -866.0001220703125,
+        "x": -866.0,
         "y": 411.0
     }
 }
@@ -2869,7 +2869,7 @@
     "m_ObjectId": "3895d3ac1aa44fb199215a87c0e06d4e",
     "m_Title": "Patrón de lámina",
     "m_Position": {
-        "x": -855.9998779296875,
+        "x": -856.0,
         "y": 1629.0
     }
 }
@@ -4118,7 +4118,7 @@
     "m_ObjectId": "71deabdbdf744852a0614c7399444009",
     "m_Title": "Cambio de Color basado en View Direction",
     "m_Position": {
-        "x": -860.9998779296875,
+        "x": -861.0,
         "y": 1017.0
     }
 }
@@ -4582,8 +4582,8 @@
     "m_ObjectId": "8265242e767c4eaf96dd5c8bdf819e5a",
     "m_Title": "Patrón de lámina",
     "m_Position": {
-        "x": -846.9998779296875,
-        "y": 2837.999755859375
+        "x": -847.0,
+        "y": 2838.0
     }
 }
 
@@ -6094,8 +6094,8 @@
     "m_ObjectId": "c159cd63224648338d6da6140bae2cf7",
     "m_Title": "Cambio de Color basado en View Direction",
     "m_Position": {
-        "x": -852.0001220703125,
-        "y": 2224.999755859375
+        "x": -852.0,
+        "y": 2225.0
     }
 }
 
@@ -7377,8 +7377,8 @@
     "m_ObjectId": "eb57dde98ae04f07adc800b21d57e75c",
     "m_Title": "Mascara",
     "m_Position": {
-        "x": 1251.9998779296875,
-        "y": 2015.0001220703125
+        "x": 1252.0,
+        "y": 2015.0
     }
 }
 
@@ -7409,7 +7409,7 @@
     "m_ObjectId": "ebd11f1e185c489a80fa884437735738",
     "m_Title": "Imagen",
     "m_Position": {
-        "x": 1652.9998779296875,
+        "x": 1653.0,
         "y": 1110.0
     }
 }
